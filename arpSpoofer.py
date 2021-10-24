@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import scapy.all as scapy
 import argparse
-import sys
 import time
 
 def get_arguments():
