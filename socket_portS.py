@@ -8,10 +8,6 @@ t_IP = gethostbyname(t)
 print(f'Starting scan on host: from IP {t}')
 print(f'Starting on port {ib} and ending on {ie}')
 
-# ib = 1
-# ie = 100
-# t_IP = '141.13.99.211' #'pythonprogramming.net'
-
 q = queue.Queue()
 for i in range(int(ib),int(ie)):
     q.put(i)
