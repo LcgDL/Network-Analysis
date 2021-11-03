@@ -20,3 +20,7 @@ commentary: socket port analysis using the Threading Module
 + wifi_net.py
 
 commentary: simple wifi analysis
+
++ nmap_scan.py
+
+commentary: simple nmap port scanner
