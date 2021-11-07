@@ -1,5 +1,5 @@
 # Network-Analysis
-Scripts for Network Analysis:
+Scripts for Network Analysis using debian-based operating Systems:
 
 + netScanSpy.py
 
